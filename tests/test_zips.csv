@@ -1,0 +1,4 @@
+zipcode,state,county_code,name,rate_area
+12345,CA,001,County1,1
+54321,NY,002,County2,1
+54321,NY,003,County3,2
